@@ -13,13 +13,13 @@ Project is done on the Symfony framework. All the required tasks are completed
 - The customer can book his appointment with a specialist by selecting a doctor he wants, entering his details, selecting a date and then submitting.
 #### Customer Time Left Registration Code Page - http://stark-river-44975.herokuapp.com/registration/code
 - The customer can enter his registration code which he should have saved and check how much time he has left till his appointment.
-#### Customer Time Left Page - Registration code =  BETJC2U7IYFQ5MOGRLPX, so url = http://stark-river-44975.herokuapp.com/search?registrationCode=BETJC2U7IYFQ5MOGRLPX
+#### Customer Time Left Page - Registration code =   D5MY2ZF6QN8B7I4AE01R, so url = http://stark-river-44975.herokuapp.com/search?registrationCode= D5MY2ZF6QN8B7I4AE01R
 - The customer can see how much time is left till his appointment. If the time has already passed the customer will see that the output changes to - "The doctor will appoint you soon."
 Otherwise the customer will see how much time he has left till his appointment.
 - The customer can cancel his appointment if he wants by pressing the cancel button.
 #### Display Board Registration Code Page - http://stark-river-44975.herokuapp.com/display/board
 - The customer can enter his registration code and see the display board.
-#### Display Board Page - Registration code =  BETJC2U7IYFQ5MOGRLPX, so url = http://stark-river-44975.herokuapp.com/displayBoard?registrationCode=BETJC2U7IYFQ5MOGRLPX
+#### Display Board Page - Registration code =   D5MY2ZF6QN8B7I4AE01R, so url = http://stark-river-44975.herokuapp.com/displayBoard?registrationCode= D5MY2ZF6QN8B7I4AE01R
 - The customer can see customers which have entered the specialists appointment.
 - The customer can see 5 upcoming customers which will have to be admitted next to the appointment.
 - The page refreshes every 5 seconds so the customer can see time counting down till the appointment.
