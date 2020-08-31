@@ -23,6 +23,7 @@ Otherwise the customer will see how much time he has left till his appointment.
 - The customer can see customers which have entered the specialists appointment.
 - The customer can see 5 upcoming customers which will have to be admitted next to the appointment.
 - The page refreshes every 5 seconds so the customer can see time counting down till the appointment.
+- If the time ended the message will say - 'The doctor should appoint you soon"
 #### Login Page - http://stark-river-44975.herokuapp.com/login 
 ##### Login details - Username: tom  Password: 123 or Username: linas Password: 123
 - The specialist can log in and access his customers management page
